@@ -1,4 +1,5 @@
 # GPT Automator
+# Adapted by Vignesh Iyer to use the LCEL syntax for readability and performance improvements.
 
 ![App](assets/app.png)
 
